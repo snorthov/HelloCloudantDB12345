@@ -1,5 +1,6 @@
 {
   "name": "cloudant_boilerplate_nodejs",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "start": "node app.js"
@@ -13,9 +14,5 @@
     "morgan": "1.6.x",
     "errorhandler": "1.4.x",
     "connect-multiparty": "2.0.x"
-  },
-  "repository": {},
-  "engines": {
-  	"node": "4.x"
   }
 }
